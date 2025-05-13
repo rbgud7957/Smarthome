@@ -38,3 +38,6 @@ LCD 실시간 표시
 LCD에 "주차 가능", "만차" 상태를 표시
 
 차량 이동에 따른 상태 자동 갱신
+
+📦 구성
+<table> <tr> <th>스위치 전등</th> <th>인체 감지 전등</th> </tr> <tr> <td align="center"> <img src="https://github.com/user-attachments/assets/5944980c-5e14-4b11-8f6f-0fa4766debf4" width="300"/><br> 스위치로 ON/OFF가 가능한 전등<br> 사용자가 직접 스위치를 눌러<br> 전등의 점등과 소등을 제어 </td> <td align="center"> <img src="https://github.com/user-attachments/assets/a15eebe3-1769-4e0e-9584-6862a2533c16" width="300"/><br> 인체 감지 시 자동으로 불이 들어오는 전등<br> 사람이 접근하면 PIR 센서를 통해<br> LED 자동 점등 </td> </tr> </table> <table> <tr> <th>스마트 주차장</th> <th>빛 감지 커튼</th> </tr> <tr> <td align="center"> <img src="https://github.com/user-attachments/assets/d5ad2cab-eb33-481a-973e-403accf99621" width="300"/><br> 차량이 들어오면 피에조 스피커로<br> 경고음이 울리고 LED 점등<br> 초음파 센서를 이용하여 차량 감지 </td> <td align="center"> <img src="https://github.com/user-attachments/assets/7414a265-4efe-425f-b6c5-c4c9fdaa7ec4" width="300"/><br> 빛이 들어오면 서보모터를 이용해<br> 자동으로 닫히는 커튼<br> 빛 감지 센서와 서보모터 제어 </td> </tr> </table> <table> <tr> <th>보일러 자동 제어</th> </tr> <tr> <td align="center"> <img src="https://github.com/user-attachments/assets/96877c1a-49c3-4fac-945b-eb84b9e99c6c" width="300"/><br> 실내 온도에 따라 자동으로<br> 보일러를 켜고 끄는 기능<br> 온도 센서를 활용해 스마트한 난방 구현 </td> </tr> </table>
